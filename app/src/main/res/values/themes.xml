@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AppCompose" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Savoro.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/greenSavoro</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/savoro</item>
+        <item name="android:statusBarColor">@color/greenSavoro</item>
+    </style>
+</resources>

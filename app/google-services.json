@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93169382840",
+    "project_id": "savoro-app-5f571",
+    "storage_bucket": "savoro-app-5f571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93169382840:android:b172125978d62c8ee94b4d",
+        "android_client_info": {
+          "package_name": "com.capstone.appcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93169382840-bbpkcv30hdrjc53ts4j5tl47d4fhfbar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa2mPi-feTvM7X0bPYbyFSHy73KJa5FFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93169382840-bbpkcv30hdrjc53ts4j5tl47d4fhfbar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
